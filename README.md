@@ -53,7 +53,7 @@ I'm continuously working on new projects to improve my programming, AI, and prob
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/)
+- **GitHub:** https://github.com/NAVEENTECHIE2K
 - **LinkedIn:** [Add your LinkedIn profile URL]
 - **Portfolio:** [Add your live website URL]
 - **Email:** [Add your professional email]
